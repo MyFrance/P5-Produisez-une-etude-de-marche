@@ -1,4 +1,4 @@
-# P5-Produisez-une-etude-de-marche
+# P5-Produisez-une-etude-de-marche (100h)
 
 # Compétences évaluées
 #### Construire et lire un dendogramme
